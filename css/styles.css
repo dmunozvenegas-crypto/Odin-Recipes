@@ -1,0 +1,46 @@
+body{text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+div{
+    background-color:rgb(108, 180, 232)
+
+}
+.header.one{
+    background:red;
+    color:#fff;
+
+}
+.header.two{
+    color:blue;
+}
+
+.crustIngredient,.fillingIngredient{
+    color:greenyellow;
+    
+}
+#nutrition{
+    font-weight:bolder;
+    }
+.dad .son {
+
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+img{height:auto;
+width:auto;}
+/* .read,
+.+unread {
+  color: white;
+  background-color: black;
+}
+
+.read {
+  /* several unique declarations */
+/* }
+
+.unread {
+  /* several unique declarations */
+/* } */ 
+
+
